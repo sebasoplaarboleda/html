@@ -1,10 +1,13 @@
+<!DOCTYPE html>
 <html>
 <body>
-<title>mi primer html</title>
-<body background=""/>
-<h1> </h1>
-<h2> </h2>
-<img src=""/>
-<p> </p>
+<title>mi pagina web</title>
+<body background="https://www.colorpsychology.org/es/wp-content/uploads/2019/07/azul-color.png"/>
+<center><h1>hola bienvenidos a mi pagina web</h1></center>
+<center><h2>Pagina creada por pepe perez</h2></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Green_field.jpg"/></center>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem repellat ips
+    um accusantium obcaecati? Similique fuga sequi, nulla voluptatibus cupiditate quo dolor
+    em odio voluptatem laboriosam voluptatum modi consectetur a tenetur nemo.</p>
 </html>
 </body>
